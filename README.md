@@ -7,9 +7,9 @@
 [![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/langchain-0.1.0+-green.svg)](https://python.langchain.com/)
 [![GROQ](https://img.shields.io/badge/groq-API-purple.svg)](https://groq.com/)
-[![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-ff69b4.svg)](https://github.com/yourusername/mathsolvex)
+[![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-ff69b4.svg)](https://github.com/cyclostone/MathSolveX)
 
-<img src="https://i.imgur.com/example.png" alt="MathSolveX Logo" width="250"/>
+<!-- <img src="https://i.imgur.com/example.png" alt="MathSolveX Logo" width="250"/> -->
 
 **An elegant, AI-powered mathematics assistant that makes problem-solving a breeze.**
 
@@ -51,7 +51,9 @@ With its intuitive chat interface and sophisticated reasoning capabilities, Math
 
 ## 🎮 Live Demo
 
-*Coming soon! We're working on deploying a live demo of MathSolveX.*
+<div align="center">
+  <img src="demo/demo.gif" width="800" />
+</div>
 
 ## 📋 Requirements
 
@@ -65,8 +67,8 @@ With its intuitive chat interface and sophisticated reasoning capabilities, Math
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mathsolvex.git
-cd mathsolvex
+git clone https://github.com/cyclostone/MathSolveX.git
+cd MathSolveX
 
 # Create and activate a virtual environment (recommended)
 python -m venv venv
@@ -80,8 +82,8 @@ pip install -r requirements.txt
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mathsolvex.git
-   cd mathsolvex
+   git clone https://github.com/cyclostone/MathSolveX.git
+   cd MathSolveX
    ```
 
 2. **Set up environment**
