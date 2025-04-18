@@ -1,0 +1,21 @@
+# Core dependencies
+streamlit==1.32.0
+langchain==0.1.5
+langchain-core==0.1.19
+langchain-community==0.0.19
+langchain-groq==0.0.3
+
+# LLM and API integrations
+python-dotenv==1.0.0
+groq==0.4.1
+youtube-transcript-api
+
+# Utilities
+wikipedia==1.4.0
+numexpr==2.8.7
+validators==0.22.0
+
+# Optional - for content processing
+unstructured==0.11.2
+beautifulsoup4==4.12.2
+requests==2.31.0
